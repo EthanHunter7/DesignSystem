@@ -1,0 +1,105 @@
+
+
+ .heading {
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+}
+
+
+.part1,
+.fonts,
+.styles {
+  border: 1px solid #000;
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+  margin-top: 5px;
+}
+
+.container,
+p {
+  display: inline-block;
+  margin: 0 auto;
+  padding: 10px 10px;
+  text-align: center;
+}
+
+.midnight,
+.hexblue {
+  background-color: #12018f;
+  color: #fff;
+  width: 150px;
+  height: 15px;
+  ;
+}
+
+.blood,
+.hexred {
+  background-color: #960000;
+  color: #fff;
+  width: 150px;
+  height: 15px;
+}
+
+.flame,
+.hexflame {
+  background-color: #e34507;
+  color: #fff;
+  width: 150px;
+  height: 15px;
+}
+
+.deep,
+.hexdeep {
+  background-color: #7307ad;
+  color: #fff;
+  width: 150px;
+  height: 15px
+}
+
+.comfortaa {
+  font-family: Comfortaa;
+}
+
+.permanentmarker {
+  font-family: "Permanent Marker";
+}
+
+.joan {
+  font-family: Joan;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.heading1 {
+  font-weight: 700;
+  font-size: 24px;
+  font-family: Comfortaa;
+}
+
+.heading2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: "Permanent Marker";
+}
+
+.paragraph {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: Joan;
+}
+
+.hexblue,
+.hexred,
+.hexflame,
+.hexdeep {
+  display: block;
+
+}
