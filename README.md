@@ -2,5 +2,5 @@
 
 This coding project is a HTML/CSS based project to create a design style sheet with some different font styles, colours and what certain text styles and sizes look like. 
 
-## Demo Site 
+## Demo Website 
 You can view the demo website [here](https://ethanhunter7.github.io/DesignSystem/)
